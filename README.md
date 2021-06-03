@@ -1,18 +1,11 @@
 ## Hi there, I'm Lyuyang 👋 I'm a Sofware Developer!
 
-- 🚀 I'm interested in NLP and anything CS.
-- 🔭 I’m currently seeking an internship for Aug 2020 to Summer 2021!
-- 🎯 2020 Goals:   
-    - [x] Get an internship
-    - [ ] Get the TF certificate
-    - [ ] Learn NLP
-
+- 🚀 I'm interested in Web Dev and anything CS.
 
 ### Languages:
-Python, Typescript, HTML, CSS, Go, JAVA, C++   
+Typescript, Python, HTML, CSS, Go, JAVA, C++   
 
 ### Technologies:
-- **NLP**: TensorFlow/Keras, NLTK, SpaCy
 - **Web**: React, Flask, Gin, Angular, Django, Scrum/Agile
 - **Cloud and Other Technologies**: AWS, Git, ElasticSearch, DynamoDB, Docker, MySQL, NGINX, Daphne
 
